@@ -1,0 +1,1 @@
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 2531339813, Size: 512x512, Model hash: 88ecb78256

@@ -1,0 +1,32 @@
+{
+    "hashes": {
+        "checkpoint/v1-5-pruned-emaonly.ckpt": {
+            "mtime": 1674705654.9485934,
+            "sha256": "cc6cb27103417325ff94f52b7a5d2dde45a7515b25c255d8e396c90014281516"
+        },
+        "checkpoint/animefull-final-pruned.ckpt": {
+            "mtime": 1666074800.4481988,
+            "sha256": "89d59c3dde4c56c6d5c41da34cc55ce479d93b4007046980934b14db71bdb2a8"
+        },
+        "hypernet/fangao": {
+            "mtime": 1673800114.3304946,
+            "sha256": "8a4c4b6fbb79b954cb3edb8ce3b583310dd57b4c2601ea3b15edc37840234e65"
+        },
+        "checkpoint/v2-1_512-ema-pruned.ckpt": {
+            "mtime": 1673641920.1257763,
+            "sha256": "88ecb782561455673c4b78d05093494b9c539fc6bfc08f3a9a4a0dd7b0b10f36"
+        },
+        "hypernet/fangao3": {
+            "mtime": 1673851745.8230295,
+            "sha256": "011bc24ff240b89c7b913a7adbbed2b227c2313d122519eb662cbb9503b26c0c"
+        },
+        "hypernet/saibo": {
+            "mtime": 1674003444.3466501,
+            "sha256": "838758782c879cc4a98ec51328d2ee7b1af0aa91d8cfc3aa2c5fcee29cc85ae8"
+        },
+        "hypernet/fangao2": {
+            "mtime": 1673839294.3675828,
+            "sha256": "0a807a12d52abaaa37e3ed01e97d60a1b2244330610f952e61817843232c69b9"
+        }
+    }
+}
